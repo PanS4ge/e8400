@@ -1,0 +1,4 @@
+# E8400.pl
+Procesor Intel Core 2 Duo E8400 3GHz 6MB LGA775 | Od profesjonalistów dla profesjonalistów | Intel Core 2 Duo E8400 przygotowany został z myślą o zwiększeniu możliwości pracy komputerów osobistych za niewielką cenę. Procesor powstał w oparciu o najnowszą i zoptymalizowaną architekturą, dzięki czemu jego wyższe taktowanie bazowe, pozwala na osiągnięcie doskonałych wyników. Intel Core 2 Duo E8400 będzie doskonałym rozwiązaniem zarówno do obsługi zaawansowanych i wymagających programów jak i dużych multimediów. Z procesorem firmy Intel możliwe stanie się nie tylko szybsze uruchomienie systemu oraz aplikacji, ale i sprawniejsze pracowanie. Układ procesora wykonany został w oparciu o technologię 45nm z podstawką LGA775.
+
+![Bombel](https://github.com/PanS4ge/e8400/blob/main/bombel.png?raw=true)
