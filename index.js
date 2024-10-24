@@ -34,7 +34,7 @@ if(urlParams.get("speed")) {
 if(urlParams.get("url")) {
   txturl = urlParams.get("url")
 } else {
-  txturl = 'https://e8400.pl/bombelium.png'
+  txturl = 'https://pans4ge.github.io/e8400/bombelium.png'
 }
 
 const textureLoader = new THREE.TextureLoader();
